@@ -2,7 +2,7 @@
 
 **`Estudante Front `**
 
-Me chamo Everlin Thais B de Andrade [, tenho 30 anos e sou natural de Curitiba Parana . Concluí a Graduação de Gestão de Ti em 2023. Atualmente, estou estudando Html e CSS. Sou apaixonada por tecnologia .
+Me chamo Everlin Thais B de Andrade , tenho 30 anos e sou natural de Curitiba Parana . Concluí a Graduação de Gestão de Ti em 2023. Atualmente, estou estudando Html e CSS.
 
 ### 🤖 Linguagens e Tecnologias
 
